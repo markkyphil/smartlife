@@ -44,6 +44,7 @@ const Wallet = () => {
 		    setMessage("");
 		}catch(error){
 			//console.log(error)
+			//
 		}
 
 		
